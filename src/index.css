@@ -1,0 +1,18 @@
+.banner-pizza {
+  padding-top: 50px;
+  justify-content: center;
+  height: 200px;
+  background: url("assets/img/banner.webp");
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+footer{
+  background-color: black !important;
+  color: white !important;
+}
+
+#root > footer > div > span > font > font{
+  color: white;
+}
