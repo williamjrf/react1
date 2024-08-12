@@ -1,8 +1,8 @@
-.banner-pizza {
+.banner-pizza{
   padding-top: 50px;
   justify-content: center;
   height: 200px;
-  background: url("/img/banner.webp");
+  background: url("/assets/img/banner.webp");
   text-align: center;
   color: white;
   text-shadow: 2px 2px 5px black;
